@@ -5,6 +5,6 @@
 <ul>
 <li class="has-line-data" data-line-start="26" data-line-end="28">
 <p class="has-line-data" data-line-start="26" data-line-end="28">[Código também disponível no Kaggle]<br>
-<a href="https://www.kaggle.com/code/osniteodoro/analyze-dream-teams-otsjr">[https://www.kaggle.com/code/osniteodoro/analyze-dream-teams-otsjr]</a></p>
+<a href="https://www.kaggle.com/code/osniteodoro/what-was-the-best-nba-dream-team/edit">[https://www.kaggle.com/code/osniteodoro/what-was-the-best-nba-dream-team/edit]</a></p>
 </li>
   </ul>
